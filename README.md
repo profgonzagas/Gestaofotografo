@@ -1,24 +1,30 @@
-Projeto Gestaofotografos
+# Projeto Gestaofotografos
+
 Este projeto foi desenvolvido como parte da disciplina de Framewrks da Pós-Graduação em Java na UTFPR. O objetivo é criar uma aplicação de gestão de fotógrafos, que atenda a diversos requisitos e utilize conceitos de desenvolvimento web com frameworks em Angular.
 
-Checklist de Tarefas
-A seguir, apresentamos uma lista de tarefas a serem concluídas durante o desenvolvimento deste projeto. Você pode marcar cada tarefa à medida que for concluída.
-[x] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
-[]Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro).
-[x] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
-[] Construir páginas web com o conceito de componentes.
-[] Criar o layout da aplicação com componentes, ou seja, o cabeçalho e rodapé precisam ser componentes.
-[] Usar pelo menos dois tipos de data-binding (Interpolation, Property Binding, Event Binding e Two Way Data Binding).
-[] Passar dados via hierarquia de componentes, ou seja, usando @Input ou @Output.
-[] Mapear componentes à rotas no módulo de rotas.
-[] Criar navegação entre páginas por meio de rotas.
-[] Passar dados entre componentes que representam diferentes telas via parâmetros de rotas.
-[] Validar campos do formulário com REGEX e apresentar os erros.
-[] Desabilitar o botão de submit enquanto o formulário está inválido.
-[] Fazer requisições a API com tratamento da resposta com Promises ou Observables.
-[] Cadastrar uma entidade usando uma API (JSON Server).
-[] Apresentar uma lista de dados com a diretiva estrutural ngFor.
-[] Usar a diretiva ngIf.
-[] Formatar a apresentação de dados com Pipes.
-[] Build e deploy da aplicação.
+## Checklist de Tarefas
+
+Aqui está a lista de tarefas a serem concluídas durante o desenvolvimento deste projeto:
+
+- [x] Criar o repositório no GitHub com a estrutura do Gitflow, ou seja, branches main e develop.
+- [ ] Usar componentes de algum framework CSS (Bootstrap, Materialize ou outro).
+- [x] Apresentar as telas com layout responsivo usando ou não algum framework CSS.
+- [ ] Construir páginas web com o conceito de componentes.
+- [ ] Criar o layout da aplicação com componentes, ou seja, o cabeçalho e rodapé precisam ser componentes.
+- [ ] Usar pelo menos dois tipos de data-binding (Interpolation, Property Binding, Event Binding e Two Way Data Binding).
+- [ ] Passar dados via hierarquia de componentes, ou seja, usando @Input ou @Output.
+- [ ] Mapear componentes à rotas no módulo de rotas.
+- [ ] Criar navegação entre páginas por meio de rotas.
+- [ ] Passar dados entre componentes que representam diferentes telas via parâmetros de rotas.
+- [ ] Validar campos do formulário com REGEX e apresentar os erros.
+- [ ] Desabilitar o botão de submit enquanto o formulário está inválido.
+- [ ] Fazer requisições a API com tratamento da resposta com Promises ou Observables.
+- [ ] Cadastrar uma entidade usando uma API (JSON Server).
+- [ ] Apresentar uma lista de dados com a diretiva estrutural ngFor.
+- [ ] Usar a diretiva ngIf.
+- [ ] Formatar a apresentação de dados com Pipes.
+- [ ] Build e deploy da aplicação.
+
+
+
 
